@@ -1,7 +1,7 @@
 // encode string to hexadecimal and hexadecimal to string
 //NullByte
 #include <stdio.h>
-#include <stdlib.h>
+
 
 void *encode_decode(char *encode){
 	printf("[$] Encoding string -> ");
