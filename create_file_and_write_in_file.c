@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <fcntl.h>
-#include <unistd.h>
+#include <stdio.h> // printf
+#include <fcntl.h> // function open
+#include <unistd.h> // function write
 
 int main(void){
 
